@@ -1,6 +1,6 @@
-# Devlok Jigpuzzle - Official Website & Legal Policies
+# Bible Picture Puzzle - Official Website & Legal Policies
 
-Official legal and landing portal for **Devlok Jigpuzzle** by **Sujy Games**.
+Official legal and landing portal for **Bible Picture Puzzle** by **Sujy Games**.
 
 ## Structure
 - `index.html`: Portal homepage displaying game info, support contact, and links to legal policies.
